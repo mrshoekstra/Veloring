@@ -6,3 +6,6 @@ You can customize the height of the design using the OpenSCAD Customizer with th
 
 ## Disclaimer
 Please note that any 3D print designs or files provided by me are for informational purposes only and should not be construed as professional advice. You use these designs or files at your own risk and I cannot be held liable for any damages, losses, or other consequences that may result from your use of these designs or files. It is always recommended that you seek professional advice before printing any 3D designs or files. By using this service, you acknowledge and agree to these terms.
+
+## Thank you
+If you found my project helpful, please consider making a donation through PayPal to support my work. Even a small donation can make a big difference! Click this link to donate: https://paypal.me/hoekstra
